@@ -1,4 +1,3 @@
-Question	Answer
 Was Abraham Lincoln the sixteenth President of the United States?	yes
 Was Abraham Lincoln the sixteenth President of the United States?	Yes.
 Did Lincoln sign the National Banking Act of 1863?	yes
@@ -103,12 +102,6 @@ Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of P
 Is he most noted for his contributions to the theory of molarity and molecular weight?	yes
 Is he most noted for his contributions to the theory of molarity and molecular weight?	NULL
 Is he most noted for his contributions to the theory of molarity and molecular weight?	NULL
-	NULL
-	NULL
-	NULL
-	NULL
-	NULL
-	NULL
 Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?	NULL
 Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?	NULL
 He is what?	NULL
@@ -648,8 +641,6 @@ What did Ghana capture in 1642?	NULL
 Is The Parliament of Ghana unicameral?	NULL
 Is Medieval Ghana (4th- 13th Century): The Republic of Ghana is named after the medieval Ghana Empire of West Africa. named after the medieval Ghana Empire of West Africa?	NULL
 What was on March?	NULL
-	NULL
-	NULL
 The coastline is what?	NULL
 Ghana 's spending on education has what?	NULL
 Who sits at Osu Castle ?	NULL
@@ -1395,8 +1386,6 @@ What do economy and law have in common?	(not sure how to answer this)
 What did Tourism in Romania attract in 2005?	investments worth 400 million euros
 Is Romania a secular state?	Yes
 Is Romania a semi-presidential unitary state?	Yes
-	NULL
-	NULL
 Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?	Yes
 Was Gellu Naum the leader of the surrealist movement in Romania ?	Yes
 Was the Bucharest Metro only opened in 1979 ?	Yes
